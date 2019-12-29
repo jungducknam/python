@@ -37,7 +37,7 @@ print()
 
 life="Life is too short, You need python";
 #텍스트 인덱싱
-print(life[3]); #변수 Life의 세번째 자리의 문자 출력
+print(life[3]); #변수 Life의 세번째 자리의 문자 출력 
 print(life[13]);
 print(life[15-2]); #안에서 사칙연산도 가능
 print(life[-1]); #변수 life에서 뒤에서 첫번째 문자
